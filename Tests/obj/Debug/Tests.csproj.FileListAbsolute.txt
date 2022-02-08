@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\user\Documents\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\user\Documents\Tests\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\user\Documents\Tests\Tests\obj\Debug\Tests.pdb
